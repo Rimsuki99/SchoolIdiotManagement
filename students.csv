@@ -1,9 +1,9 @@
 ID,Name,Age,Email,Class,Grade,Attendance,Score,Attended,Total Classes
-4001,jack,21,jack@gmail.com,BIC3104 Programming for Computer Science,A-,50.0%,75,2,4
+4001,jack,21,jack@gmail.com,BIC3104 Programming for Computer Science,F,50.0%,0,2,4
 4001,jack,21,jack@gmail.com,BIC3223 Network Security Design,,0%,0,0,0
 4001,jack,21,jack@gmail.com,BIC3133 Object Oriented Methods,,100.0%,0,1,1
 4002,Edward,21,edward@gmail.com,BIC3133 Object Oriented Methods,,100.0%,0,1,1
-4002,Edward,21,edward@gmail.com,BIC3104 Programming for Computer Science,,75.0%,0,3,4
+4002,Edward,21,edward@gmail.com,BIC3104 Programming for Computer Science,A,75.0%,100,3,4
 4003,Song Ping Zhi,21,song@gmail.com,BIC3104 Programming for Computer Science,,100.0%,0,1,1
 4003,Song Ping Zhi,21,song@gmail.com,BIC3133 Object Oriented Methods,,0%,0,0,0
 4003,Song Ping Zhi,21,song@gmail.com,BIC3223 Network Security Design,,0%,0,0,0
@@ -15,3 +15,5 @@ ID,Name,Age,Email,Class,Grade,Attendance,Score,Attended,Total Classes
 4001,jack,21,jack@gmail.com,BIC3163 Application Layer Programming,,0%,0,0,0
 4002,Edward,21,edward@gmail.com,BIC3223 Network Security Design,,0%,0,0,0
 4002,Edward,21,edward@gmail.com,BIC2283 Business Systems Development Tools,,0%,0,0,0
+4004,garion,26,idk@gmail.com,BIC3223 Network Security Design,,0%,0,0,0
+4004,garion,26,idk@gmail.com,BIC3253 Entrepreneurship,N/A,0%,0,0,0
